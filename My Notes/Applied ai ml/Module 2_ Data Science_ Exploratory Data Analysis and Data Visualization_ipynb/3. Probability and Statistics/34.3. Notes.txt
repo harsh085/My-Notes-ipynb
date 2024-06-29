@@ -1,0 +1,1 @@
+ How we setup hyp-testing as a proof by contradiction: https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/hypothesis-testing-testing-methodology-null-hypothesis-p-value/ 3. Coin-toss example: https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/hypothesis-testing-intution-with-coin-toss-example/
